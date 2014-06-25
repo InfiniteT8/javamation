@@ -1,0 +1,127 @@
+ // Bourbon & Neat
+@import '../bower_components/bourbon/dist/bourbon';
+@import '../bower_components/neat/app/assets/stylesheets/neat';
+
+// Custom Styles
+body {
+  background: #fafafa;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #333;
+}
+
+.bigcontainer {
+  height:960px;
+  width:0 auto;
+  color:white;
+}
+.ani1 {
+  margin: 50px auto 0 auto;
+  width: 200px;
+  font-size: 26px;
+  font-weight: 200;
+  line-height: 30px;
+  background-color: #6ee;
+  border-radius: 6px;
+  padding: 60px;
+  float:left;
+  h1 {
+    font-size: 20px;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+}
+
+.Box1 {
+  width: 200px;
+  height: 200px;
+  background-color:#636;
+  margin: 50px auto 0 auto;
+  width: 200px;
+  font-size: 26px;
+  font-weight: 200;
+  line-height: 30px;
+  background-color: #6e4;
+  border-radius: 6px;
+  padding: 60px;
+  float:left;
+  p {
+    font-size: 20px;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+}
+
+.Box2 {
+  width: 200px;
+  height: 200px;
+  margin: 50px auto 0 auto;
+  width: 200px;
+  font-size: 26px;
+  font-weight: 200;
+  line-height: 30px;
+  background-color:orange;
+  border-radius: 6px;
+  padding: 60px;
+  float:right;
+}
+
+.Box3 {
+  width: 100px;
+  height: 100px;
+  background-color:yellow;
+  margin: 50px auto 0 auto;
+  width: 200px;
+  font-size: 26px;
+  font-weight: 200;
+  line-height: 30px;
+  border-radius: 6px;
+  padding: 60px;
+}
+
+.Box4 {
+  width: 200px;
+  height: 200px;
+  background-color:#632;
+}
+
+.Box5 {
+  width: 200px;
+  height: 200px;
+  background-color:#606;
+}
+
+.Box6 {
+  width: 200px;
+  height: 200px;
+  background-color:#136;
+}
+
+.Box7 {
+  width: 200px;
+  height: 200px;
+  background-color:#236;
+}
+
+.Box7 {
+  width: 200px;
+  height: 200px;
+  background-color:#533;
+}
+
+.Box8 {
+  width: 200px;
+  height: 200px;
+  background-color:red;
+}
+
+.Box9 {
+  width: 200px;
+  height: 200px;
+  background-color:green;
+}
+
+.Box10 {
+  width: 200px;
+  height: 200px;
+  background-color:brown;
+}
